@@ -1,0 +1,7 @@
+magias.txt
+cartas.html
+*.class
+bin/
+out/
+.vscode/
+.idea/
